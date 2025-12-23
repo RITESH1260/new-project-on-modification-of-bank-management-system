@@ -10,4 +10,4 @@ connection = mycon.connect(
 )
 cursor = connection.cursor()
 cursor.execute()
-corsor.commit
+cursor.commit()
