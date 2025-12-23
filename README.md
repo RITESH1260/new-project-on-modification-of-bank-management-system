@@ -9,4 +9,5 @@ connection = mycon.connect(
     database ="bank",
 )
 cursor = connection.cursor()
-import pandas
+cursor.execute()
+corsor.commit
